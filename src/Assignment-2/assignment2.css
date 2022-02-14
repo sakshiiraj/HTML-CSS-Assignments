@@ -25,6 +25,10 @@ header{
 .app-search-form{
     float: right;
 }
+input[type="text"] {
+    padding: 0px 32px;
+    margin: -24px 38px;
+}
 nav{
     border: 2px solid rgb(10, 243, 80);
     background-color: rgb(203, 152, 250);
