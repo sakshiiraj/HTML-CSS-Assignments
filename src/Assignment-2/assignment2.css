@@ -5,7 +5,9 @@
 width: 100%;
 height: 100%;
 }
-
+*{
+    font-size: 18px;
+}
 header.app-header {
     height: 122px;
     padding: 4px;
@@ -41,6 +43,24 @@ ul#left-sidebar-menu {
     float: left;
     list-style: none;
     padding: 70px;
+}
+ul#right-sidebar-menu {
+    display: inline;
+    float: right;
+    padding: 0px 106px;
+    list-style: none;
+}
+.nav-bar-link{
+    display: inline-block;
+}
+li.nav-bar-link {
+    list-style: none;
+}
+li.nav-bar-link {
+    padding: 12px 195px;
+}
+a{
+    text-decoration: none;
 }
 section#main-content-section {
     display: inline-block;
