@@ -1,7 +1,82 @@
-/* Our CSS file. */
+/* Our CSS file.*/
 
 
 .container, .content {
-width: 100%;
-height: 100%;
+    width: 100%;
+    height: 100%;
+}
+*{
+    font-size: 18px;
+}
+header.app-header {
+    height: 122px;
+    padding: 4px;
+    width: 100%;
+    margin: 7px;
+}
+img{
+    width: 75px;
+    height: 75px;
+}
+header{
+    border: 2px solid red;
+    background-color: aquamarine;
+}
+.app-search-form{
+    float: right;
+}
+input[type="text"] {
+    padding: 0px 32px;
+    margin: -24px 38px;
+}
+nav{
+    border: 2px solid rgb(10, 243, 80);
+    background-color: rgb(203, 152, 250);
+    padding: 16px;
+    margin: 7px;
+}
+#mid{
+    border: 2px solid black;
+    background-color: rgb(181, 248, 117);
+    padding: 9px;
+    margin: 7px;
+    height: 350px;
+}
+img.post-img {
+    padding: 0px 124px;
+}
+ul#left-sidebar-menu {
+    display: inline;
+    float: left;
+    list-style: none;
+    padding: 70px;
+}
+ul#right-sidebar-menu {
+    display: inline;
+    float: right;
+    padding: 0px 106px;
+    list-style: none;
+}
+.nav-bar-link{
+    display: inline-block;
+}
+li.nav-bar-link {
+    list-style: none;
+}
+li.nav-bar-link {
+    padding: 12px 195px;
+}
+a{
+    text-decoration: none;
+}
+section#main-content-section {
+    display: inline-block;
+    width: 50%;
+}
+footer{
+    background-color: rgb(253, 174, 128);
+    border: 2px solid brown;
+    padding: 21px;
+    margin: 7px;
+    margin-top: 16px;
 }
