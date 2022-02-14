@@ -42,6 +42,9 @@ nav{
     margin: 7px;
     height: 350px;
 }
+img.post-img {
+    padding: 0px 124px;
+}
 ul#left-sidebar-menu {
     display: inline;
     float: left;
