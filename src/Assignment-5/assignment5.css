@@ -13,8 +13,12 @@ body{
     /* border: 2px solid black; */
     background-color: white;
     width: 50%;
-    margin-left: 458px;
-    margin-top: 48px;
+    margin-left: 668px;
+    margin-top: 150px;
+}
+.card h1{
+    font-size: xxx-large;
+    margin-left: 229px;
 }
 .content1{
     width: 50%;
@@ -26,8 +30,8 @@ body{
     /* border: 2px solid black; */
     background-color: white;
     width: 50%;
-    margin-left: 458px;
-    margin-top: 48px;
+    margin-left: 668px;
+    margin-top: 135px;
 }
 .content2{
     width: 50%;
