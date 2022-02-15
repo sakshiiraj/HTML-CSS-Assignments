@@ -8,6 +8,17 @@ height: 100%;
 body{
     background-color: rgb(189, 189, 184);
 }
+img{
+    width: 428px;
+}
+button {
+    display: inline-block;
+    margin-left: 344px;
+    margin-top: auto;
+    background-color: #8fe78f;
+    color: white;
+    border: none;
+}
 .card{
     display: flex;
     /* border: 2px solid black; */
@@ -40,10 +51,11 @@ body{
 }
 .leaf2 {
     background-color: #65ed73;
+    width: 392px;
 }
 .leaf {
     background-color: #65ed73;
-    width: 37%;
+    width: 392px;
 }
 button{
     border-radius: 25%;
