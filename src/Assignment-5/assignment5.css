@@ -5,3 +5,45 @@
 width: 100%;
 height: 100%;
 }
+body{
+    background-color: rgb(189, 189, 184);
+}
+.card{
+    display: flex;
+    /* border: 2px solid black; */
+    background-color: white;
+    width: 50%;
+    margin-left: 458px;
+    margin-top: 48px;
+}
+.content1{
+    width: 50%;
+    height: 50%;
+    padding: 40px;
+}
+.card2{
+    display: flex;
+    /* border: 2px solid black; */
+    background-color: white;
+    width: 50%;
+    margin-left: 458px;
+    margin-top: 48px;
+}
+.content2{
+    width: 50%;
+    height: 50%;
+    padding: 40px;
+}
+.leaf2 {
+    background-color: #65ed73;
+}
+.leaf {
+    background-color: #65ed73;
+    width: 37%;
+}
+button{
+    border-radius: 25%;
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 166px;
+}
