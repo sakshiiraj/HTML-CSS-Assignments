@@ -25,7 +25,12 @@ header{
 .app-search-form{
     float: right;
 }
-input[type="text"] {
+.app-logo-container {
+    float: left;
+    /* display: inline; */
+    margin-top: 13px;
+}
+input{
     padding: 0px 32px;
     margin: -24px 38px;
 }
@@ -42,14 +47,21 @@ nav{
     margin: 7px;
     height: 350px;
 }
+table.mid2 {
+    margin-left: 500px;
+    margin-top: 79px;
+}
 img.post-img {
     padding: 0px 124px;
+}
+form.app-search-form {
+    margin-top: 44px;
 }
 ul#left-sidebar-menu {
     display: inline;
     float: left;
     list-style: none;
-    padding: 70px;
+    /* padding: 70px; */
 }
 ul#right-sidebar-menu {
     display: inline;
@@ -57,8 +69,15 @@ ul#right-sidebar-menu {
     padding: 0px 106px;
     list-style: none;
 }
+nav.nav-bar {
+    display: flex;
+    justify-content: center;
+}
 .nav-bar-link{
     display: inline-block;
+}
+li{
+    line-height: 1.5;
 }
 li.nav-bar-link {
     list-style: none;
@@ -72,6 +91,7 @@ a{
 section#main-content-section {
     display: inline-block;
     width: 50%;
+    margin-left:100px;
 }
 footer{
     background-color: rgb(253, 174, 128);
@@ -79,4 +99,7 @@ footer{
     padding: 21px;
     margin: 7px;
     margin-top: 16px;
+}
+aside.list-right {
+    display: inline;
 }
