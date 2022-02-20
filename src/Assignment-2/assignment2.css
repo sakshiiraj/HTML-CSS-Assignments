@@ -1,11 +1,14 @@
-/* Our CSS file. */
+/* Our CSS file.*/
 
 
 .container, .content {
 width: 100%;
 height: 100%;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7903198f57c5e7fed27b7eabf81f4d01073f7dfd
 *{
     font-size: 18px;
 }
@@ -79,4 +82,9 @@ footer{
     border: 2px solid brown;
     padding: 21px;
     margin: 7px;
+<<<<<<< HEAD
     margin-top: 16px;
+=======
+    margin-top: 16px;
+}
+>>>>>>> 7903198f57c5e7fed27b7eabf81f4d01073f7dfd
