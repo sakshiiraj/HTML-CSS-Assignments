@@ -5,6 +5,8 @@
 width: 100%;
 height: 100%;
 }
+
+
 *{
     font-size: 18px;
 }
@@ -78,5 +80,7 @@ footer{
     border: 2px solid brown;
     padding: 21px;
     margin: 7px;
+
     margin-top: 16px;
 }
+
